@@ -1,4 +1,4 @@
-<H3>NAME : vasanth S</H3>
+<H3>NAME : vasanth p</H3>
 <H3>REGISTER NUMBER : 212222040175</H3>
 <H3>EX. NO.1</H3>
 <H3>DATE : </H3>
